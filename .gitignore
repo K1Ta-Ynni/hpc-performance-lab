@@ -1,4 +1,4 @@
-# LaTeX 编译临时文件
+# 忽略 LaTeX 编译临时文件
 *.aux
 *.log
 *.out
@@ -6,4 +6,6 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
-%PDFLATEX_OUTDIR%/
+
+# 保留PDF文件
+!*.pdf
