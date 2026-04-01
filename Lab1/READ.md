@@ -21,7 +21,7 @@
 - `report.pdf` - 实验报告
 - `report.tex` - 实验报告 LaTeX 源文件
 - `README.md` - 本文件
-
+- `Conversations with Deepseek.exe` - 与大模型Deepseek关于本实验对话的全过程文本文件
 ## 快速运行
 
 ### 编译
